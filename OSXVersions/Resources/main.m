@@ -1,6 +1,6 @@
 //
 //  main.m
-//  OS10Versions
+//  OSXVersions
 //
 //  Created by Ilgar Ilyasov on 3/25/19.
 //  Copyright © 2019 Fun-the-mental. All rights reserved.
